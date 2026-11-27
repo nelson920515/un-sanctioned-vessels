@@ -1,0 +1,81 @@
+name: Build vessel feed
+
+# Daily: re-read the UN Consolidated List (Libya vessels, owner links), try the
+# 1718 PDF (the UN site normally refuses automatic downloads), and watch UN
+# press releases for 1718 vessel announcements. On upload of a new PDF to
+# sources/1718/incoming/: parse, check and publish it.
+on:
+  schedule:
+    - cron: "17 1 * * *"   # 01:17 UTC = 09:17 Hong Kong
+  workflow_dispatch:
+    inputs:
+      clear_pending:
+        description: "The flagged UN press release does not change the vessel list"
+        type: boolean
+        default: false
+  push:
+    paths:
+      - "sources/1718/incoming/**"
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: vessel-feed
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install -r requirements.txt
+
+      - name: Tests
+        run: python -m pytest -q
+
+      - name: Build the feed
+        run: |
+          args=""
+          pdf=$(ls sources/1718/incoming/*.pdf 2>/dev/null | head -1 || true)
+          if [ -n "$pdf" ]; then args="--pdf $pdf"; fi
+          if [ "${{ inputs.clear_pending }}" = "true" ]; then args="$args --clear-pending"; fi
+          python -m unvessels.build $args
+          cat out/summary.md >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Publish
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A feed sources state
+          if git diff --cached --quiet; then echo "Nothing to publish"; exit 0; fi
+          msg="Daily check, no change to the vessel list"
+          if ! git diff --cached --quiet -- feed/vessels.tsv; then msg="Vessel list updated"; fi
+          git commit -m "$msg ($(date -u +%Y-%m-%d))"
+          git push
+
+      - name: Ask for action
+        if: always()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          if [ -s out/issue.md ]; then
+            gh issue create --title "Vessel feed needs attention ($(date -u +%Y-%m-%d))" --body-file out/issue.md
+          fi
+
+      - name: Report a failed build
+        if: failure()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          title="Vessel feed build failed"
+          if [ -z "$(gh issue list --state open --search "in:title \"$title\"" --json number --jq '.[0].number')" ]; then
+            gh issue create --title "$title" --body "The feed was not changed. Log: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
+          fi

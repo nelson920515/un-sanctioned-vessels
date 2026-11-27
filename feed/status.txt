@@ -1,0 +1,14 @@
+# UN-sanctioned vessels feed. key=value; read by the Excel screening tool.
+format=1
+version=2020-06-04-2bd300f7dc66
+list_date_1718=2020-06-04
+count=61
+count_1718=59
+tsv_crc32=BD33B4B2
+tsv_bytes=35108
+pdf_sha256=6db4f58b8de25d576ab916a112585b3bc9fc5250f75af71c64832ffa816a7ea0
+consolidated_date=2026-11-27T00:00:06.380Z
+checked_at=2026-11-27T09:53:22Z
+pending=0
+pending_note=
+pending_url=

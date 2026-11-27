@@ -1,0 +1,1672 @@
+{
+ "meta": {
+  "generated": "2026-11-27T09:53:22Z",
+  "version": "2020-06-04-2bd300f7dc66",
+  "list_date_1718": "2020-06-04",
+  "consolidated_date": "2026-11-27T00:00:06.380Z",
+  "sources": {
+   "1718": "https://main.un.org/securitycouncil/sites/default/files/1718_designated_vessels_list_final.pdf",
+   "consolidated": "https://scsanctions.un.org/resources/xml/en/consolidated.xml"
+  },
+  "pending": []
+ },
+ "vessels": [
+  {
+   "dataid": "V1718-7303803",
+   "source": "1718 Designated Vessels List",
+   "regime": "DPRK",
+   "reference": "1718 list no. 1",
+   "name": "AN SAN 1",
+   "other_names": [],
+   "imo": "7303803",
+   "mmsi": [],
+   "call_sign": [],
+   "flag": [],
+   "vessel_type": "",
+   "designated_on": "2018-03-30",
+   "measures": [
+    "Asset freeze of designated vessel (paragraph 12(d) of resolution 2321 (2016)) - designated 2018-03-30",
+    "Port entry ban (paragraph 6 of resolution 2371 (2017) and paragraph 6 of resolution 2375 (2017)) - designated 2018-03-30"
+   ],
+   "other_information": "DPRK tanker M/V AN SAN 1 was involved in ship-to-ship transfer operations, likely for oil, in late January 2018.",
+   "linked_entities": [
+    "KPe.062 KOREA ANSAN SHIPPING COMPANY"
+   ],
+   "listing_expires": "",
+   "source_url": "https://main.un.org/securitycouncil/sites/default/files/1718_designated_vessels_list_final.pdf",
+   "list_row": 1
+  },
+  {
+   "dataid": "V1718-8916580",
+   "source": "1718 Designated Vessels List",
+   "regime": "DPRK",
+   "reference": "1718 list no. 2",
+   "name": "ASIA BRIDGE 1",
+   "other_names": [],
+   "imo": "8916580",
+   "mmsi": [],
+   "call_sign": [],
+   "flag": [],
+   "vessel_type": "",
+   "designated_on": "2018-03-30",
+   "measures": [
+    "De-flagging (paragraph 12(a) of resolution 2321 (2016)) - designated 2018-03-30",
+    "Port entry ban (paragraph 6 of resolution 2371 (2017) and paragraph 6 of resolution 2375 (2017)) - designated 2018-03-30"
+   ],
+   "other_information": "M/V ASIA BRIDGE 1 loaded DPRK coal at Nampo, DPRK, on 22 October 2017 and transferred it to Cam Pha, Vietnam.",
+   "linked_entities": [
+    "KPe.059 HUAXIN SHIPPING HONGKONG LTD"
+   ],
+   "listing_expires": "",
+   "source_url": "https://main.un.org/securitycouncil/sites/default/files/1718_designated_vessels_list_final.pdf",
+   "list_row": 2
+  },
+  {
+   "dataid": "V1718-9191773",
+   "source": "1718 Designated Vessels List",
+   "regime": "DPRK",
+   "reference": "1718 list no. 3",
+   "name": "BILLIONS NO. 18",
+   "other_names": [],
+   "imo": "9191773",
+   "mmsi": [],
+   "call_sign": [],
+   "flag": [],
+   "vessel_type": "",
+   "designated_on": "2017-12-28",
+   "measures": [
+    "Port entry ban (paragraph 6 of resolution 2371 (2017) and paragraph 6 of resolution 2375 (2017)) - designated 2017-12-28"
+   ],
+   "other_information": "",
+   "linked_entities": [],
+   "listing_expires": "",
+   "source_url": "https://main.un.org/securitycouncil/sites/default/files/1718_designated_vessels_list_final.pdf",
+   "list_row": 3
+  },
+  {
+   "dataid": "V1718-8909575",
+   "source": "1718 Designated Vessels List",
+   "regime": "DPRK",
+   "reference": "1718 list no. 4",
+   "name": "Blue Nouvelle",
+   "other_names": [
+    "Greenlight",
+    "Chong Bong"
+   ],
+   "imo": "8909575",
+   "mmsi": [
+    "529734000",
+    "515721000",
+    "445114000",
+    "445528000"
+   ],
+   "call_sign": [
+    "T3NM2",
+    "XUJX6",
+    "HMXW"
+   ],
+   "flag": [
+    "Kiribati",
+    "Cambodia",
+    "Democratic People’s Republic of Korea"
+   ],
+   "vessel_type": "General Cargo Ship",
+   "designated_on": "2017-06-21",
+   "measures": [
+    "Asset freeze as economic resource controlled or operated by Ocean Maritime Management (KPe.020) - designated 2017-06-21"
+   ],
+   "other_information": "Listed as an economic resource controlled or operated by the designated company Ocean Maritime Management Company (OMM). Vessel subject to asset freeze – see paragraph 23 of resolution 2270 (2016).",
+   "linked_entities": [],
+   "listing_expires": "",
+   "source_url": "https://main.un.org/securitycouncil/sites/default/files/1718_designated_vessels_list_final.pdf",
+   "list_row": 4
+  },
+  {
+   "dataid": "V1718-8660313",
+   "source": "1718 Designated Vessels List",
+   "regime": "DPRK",
+   "reference": "1718 list no. 5",
+   "name": "CHON MA SAN",
+   "other_names": [],
+   "imo": "8660313",
+   "mmsi": [],
+   "call_sign": [],
+   "flag": [],
+   "vessel_type": "",
+   "designated_on": "2018-03-30",
+   "measures": [
+    "Asset freeze of designated vessel (paragraph 12(d) of resolution 2321 (2016)) - designated 2018-03-30",
+    "Port entry ban (paragraph 6 of resolution 2371 (2017) and paragraph 6 of resolution 2375 (2017)) - designated 2018-03-30"
+   ],
+   "other_information": "DPRK vessel M/V CHON MA SAN was involved in ship-to-ship transfer operations for oil in mid-November 2017.",
+   "linked_entities": [
+    "KPe.061 KOREA ACHIM SHIPPING CO"
+   ],
+   "listing_expires": "",
+   "source_url": "https://main.un.org/securitycouncil/sites/default/files/1718_designated_vessels_list_final.pdf",
+   "list_row": 5
+  },
+  {
+   "dataid": "V1718-8712362",
+   "source": "1718 Designated Vessels List",
+   "regime": "DPRK",
+   "reference": "1718 list no. 6",
+   "name": "CHON MYONG 1",
+   "other_names": [],
+   "imo": "8712362",
+   "mmsi": [],
+   "call_sign": [],
+   "flag": [],
+   "vessel_type": "",
+   "designated_on": "2018-03-30",
+   "measures": [
+    "Asset freeze of designated vessel (paragraph 12(d) of resolution 2321 (2016)) - designated 2018-03-30",
+    "Port entry ban (paragraph 6 of resolution 2371 (2017) and paragraph 6 of resolution 2375 (2017)) - designated 2018-03-30"
+   ],
+   "other_information": "DPRK oil tanker M/V CHON MYONG 1 conducted a ship-to-ship transfer, likely for oil, in late December 2017.",
+   "linked_entities": [
+    "KPe.056 CHONMYONG SHIPPING CO"
+   ],
+   "listing_expires": "",
+   "source_url": "https://main.un.org/securitycouncil/sites/default/files/1718_designated_vessels_list_final.pdf",
+   "list_row": 6
+  },
+  {
+   "dataid": "V1718-7937317",
+   "source": "1718 Designated Vessels List",
+   "regime": "DPRK",
+   "reference": "1718 list no. 7",
+   "name": "Chong Chon Gang",
+   "other_names": [
+    "Tong Hung San"
+   ],
+   "imo": "7937317",
+   "mmsi": [
+    "445114000",
+    "445117000"
+   ],
+   "call_sign": [
+    "HMZF",
+    "HMBL"
+   ],
+   "flag": [
+    "Democratic People’s Republic of Korea"
+   ],
+   "vessel_type": "General Cargo Ship",
+   "designated_on": "2017-06-21",
+   "measures": [
+    "Asset freeze as economic resource controlled or operated by Ocean Maritime Management (KPe.020) - designated 2017-06-21"
+   ],
+   "other_information": "Listed as an economic resource controlled or operated by the designated company Ocean Maritime Management Company (OMM). Vessel subject to asset freeze – see paragraph 23 of resolution 2270 (2016).",
+   "linked_entities": [
+    "KPe.020 OCEAN MARITIME MANAGEMENT COMPANY, LIMITED (OMM)",
+    "KPe.022 CHONGCHONGANG SHIPPING COMPANY"
+   ],
+   "listing_expires": "",
+   "source_url": "https://main.un.org/securitycouncil/sites/default/files/1718_designated_vessels_list_final.pdf",
+   "list_row": 7
+  },
+  {
+   "dataid": "V1718-8916293",
+   "source": "1718 Designated Vessels List",
+   "regime": "DPRK",
+   "reference": "1718 list no. 8",
+   "name": "Chong Rim 2",
+   "other_names": [
+    "Saebyol"
+   ],
+   "imo": "8916293",
+   "mmsi": [
+    "445175000",
+    "445134000",
+    "445143000"
+   ],
+   "call_sign": [
+    "HMYF7",
+    "HMAA"
+   ],
+   "flag": [
+    "Democratic People’s Republic of Korea"
+   ],
+   "vessel_type": "Chemical Tanker",
+   "designated_on": "2017-06-21",
+   "measures": [
+    "Asset freeze as economic resource controlled or operated by Ocean Maritime Management (KPe.020) - designated 2017-06-21"
+   ],
+   "other_information": "Listed as an economic resource controlled or operated by the designated company Ocean Maritime Management Company (OMM). Vessel subject to asset freeze – see paragraph 23 of resolution 2270 (2016).",
+   "linked_entities": [],
+   "listing_expires": "",
+   "source_url": "https://main.un.org/securitycouncil/sites/default/files/1718_designated_vessels_list_final.pdf",
+   "list_row": 8
+  },
+  {
+   "dataid": "V1718-9008201",
+   "source": "1718 Designated Vessels List",
+   "regime": "DPRK",
+   "reference": "1718 list no. 9",
+   "name": "DONG FENG 6",
+   "other_names": [],
+   "imo": "9008201",
+   "mmsi": [],
+   "call_sign": [],
+   "flag": [],
+   "vessel_type": "",
+   "designated_on": "2018-03-30",
+   "measures": [
+    "De-flagging (paragraph 12(a) of resolution 2321 (2016)) - designated 2018-03-30",
+    "Port entry ban (paragraph 6 of resolution 2371 (2017) and paragraph 6 of resolution 2375 (2017)) - designated 2018-03-30"
+   ],
+   "other_information": "M/V DONG FENG 6 loaded DPRK coal at Hamhung, DPRK, on 11 July 2017, for export in violation of UN sanctions.",
+   "linked_entities": [
+    "KPe.072 SHANGHAI DONGFENG SHIPPING CO LTD"
+   ],
+   "listing_expires": "",
+   "source_url": "https://main.un.org/securitycouncil/sites/default/files/1718_designated_vessels_list_final.pdf",
+   "list_row": 9
+  },
+  {
+   "dataid": "V1718-8914934",
+   "source": "1718 Designated Vessels List",
+   "regime": "DPRK",
+   "reference": "1718 list no. 10",
+   "name": "FAN KE",
+   "other_names": [],
+   "imo": "8914934",
+   "mmsi": [],
+   "call_sign": [],
+   "flag": [],
+   "vessel_type": "",
+   "designated_on": "2018-03-30",
+   "measures": [
+    "De-flagging (paragraph 12(a) of resolution 2321 (2016)) - designated 2018-03-30",
+    "Port entry ban (paragraph 6 of resolution 2371 (2017) and paragraph 6 of resolution 2375 (2017)) - designated 2018-03-30"
+   ],
+   "other_information": "M/V FAN KE loaded DPRK coal at Nampo, DPRK, in September/October 2017.",
+   "linked_entities": [],
+   "listing_expires": "",
+   "source_url": "https://main.un.org/securitycouncil/sites/default/files/1718_designated_vessels_list_final.pdf",
+   "list_row": 10
+  },
+  {
+   "dataid": "V1718-8747604",
+   "source": "1718 Designated Vessels List",
+   "regime": "DPRK",
+   "reference": "1718 list no. 11",
+   "name": "HAO FAN 2",
+   "other_names": [],
+   "imo": "8747604",
+   "mmsi": [],
+   "call_sign": [],
+   "flag": [],
+   "vessel_type": "",
+   "designated_on": "2018-03-30",
+   "measures": [
+    "De-flagging (paragraph 12(a) of resolution 2321 (2016)) - designated 2018-03-30",
+    "Port entry ban (paragraph 6 of resolution 2371 (2017) and paragraph 6 of resolution 2375 (2017)) - designated 2018-03-30"
+   ],
+   "other_information": "M/V HAO FAN 2 loaded DPRK coal at Nampo, DPRK, on 3 June 2017, for export in violation of UN sanctions.",
+   "linked_entities": [
+    "KPe.073 SHEN ZHONG INTERNATIONAL SHIPPING"
+   ],
+   "listing_expires": "",
+   "source_url": "https://main.un.org/securitycouncil/sites/default/files/1718_designated_vessels_list_final.pdf",
+   "list_row": 11
+  },
+  {
+   "dataid": "V1718-8628597",
+   "source": "1718 Designated Vessels List",
+   "regime": "DPRK",
+   "reference": "1718 list no. 12",
+   "name": "HAO FAN 6",
+   "other_names": [],
+   "imo": "8628597",
+   "mmsi": [
+    "341985000"
+   ],
+   "call_sign": [],
+   "flag": [],
+   "vessel_type": "",
+   "designated_on": "2017-10-03",
+   "measures": [
+    "Port entry ban (paragraph 6 of resolution 2371 (2017) and paragraph 6 of resolution 2375 (2017)) - designated 2017-10-03",
+    "De-flagging (paragraph 12(a) of resolution 2321 (2016)) - designated 2018-03-30"
+   ],
+   "other_information": "M/V HAO FAN 6 loaded DPRK coal at Nampo, DPRK, on 27 August 2017.",
+   "linked_entities": [
+    "KPe.073 SHEN ZHONG INTERNATIONAL SHIPPING"
+   ],
+   "listing_expires": "",
+   "source_url": "https://main.un.org/securitycouncil/sites/default/files/1718_designated_vessels_list_final.pdf",
+   "list_row": 12
+  },
+  {
+   "dataid": "V1718-9066540",
+   "source": "1718 Designated Vessels List",
+   "regime": "DPRK",
+   "reference": "1718 list no. 13",
+   "name": "HAP JANG GANG 6",
+   "other_names": [],
+   "imo": "9066540",
+   "mmsi": [],
+   "call_sign": [],
+   "flag": [],
+   "vessel_type": "",
+   "designated_on": "2018-03-30",
+   "measures": [
+    "Asset freeze (paragraph 8(d) of resolution 1718 (2006) and paragraph 12 of resolution 2270 (2016)) - designated 2018-03-30"
+   ],
+   "other_information": "DPRK cargo vessel M/V HAP JANG GANG 6 is owned by Hapjanggang Shipping Corp and is believed to have been involved in illicit transfers of prohibited DPRK goods.",
+   "linked_entities": [
+    "KPe.058 Hapjanggang Shipping Corp"
+   ],
+   "listing_expires": "",
+   "source_url": "https://main.un.org/securitycouncil/sites/default/files/1718_designated_vessels_list_final.pdf",
+   "list_row": 13
+  },
+  {
+   "dataid": "V1718-9041552",
+   "source": "1718 Designated Vessels List",
+   "regime": "DPRK",
+   "reference": "1718 list no. 14",
+   "name": "Hoe Ryong",
+   "other_names": [],
+   "imo": "9041552",
+   "mmsi": [
+    "445039000",
+    "445150000"
+   ],
+   "call_sign": [
+    "HMLM",
+    "HMBF"
+   ],
+   "flag": [
+    "Democratic People’s Republic of Korea"
+   ],
+   "vessel_type": "General Cargo Ship",
+   "designated_on": "2017-06-21",
+   "measures": [
+    "Asset freeze as economic resource controlled or operated by Ocean Maritime Management (KPe.020) - designated 2017-06-21"
+   ],
+   "other_information": "Listed as an economic resource controlled or operated by the designated company Ocean Maritime Management Company (OMM). Vessel subject to asset freeze – see paragraph 23 of resolution 2270 (2016).",
+   "linked_entities": [],
+   "listing_expires": "",
+   "source_url": "https://main.un.org/securitycouncil/sites/default/files/1718_designated_vessels_list_final.pdf",
+   "list_row": 14
+  },
+  {
+   "dataid": "V1718-9020003",
+   "source": "1718 Designated Vessels List",
+   "regime": "DPRK",
+   "reference": "1718 list no. 15",
+   "name": "HUA FU",
+   "other_names": [],
+   "imo": "9020003",
+   "mmsi": [],
+   "call_sign": [],
+   "flag": [],
+   "vessel_type": "",
+   "designated_on": "2018-03-30",
+   "measures": [
+    "De-flagging (paragraph 12(a) of resolution 2321 (2016)) - designated 2018-03-30",
+    "Port entry ban (paragraph 6 of resolution 2371 (2017) and paragraph 6 of resolution 2375 (2017)) - designated 2018-03-30"
+   ],
+   "other_information": "M/V HUA FU loaded DPRK coal at Najin, DPRK, on 24 September 2017.",
+   "linked_entities": [
+    "KPe.055 CHANG AN SHIPPING & TECHNOLOGY"
+   ],
+   "listing_expires": "",
+   "source_url": "https://main.un.org/securitycouncil/sites/default/files/1718_designated_vessels_list_final.pdf",
+   "list_row": 15
+  },
+  {
+   "dataid": "V1718-8405270",
+   "source": "1718 Designated Vessels List",
+   "regime": "DPRK",
+   "reference": "1718 list no. 16",
+   "name": "Hwang Gum San 2",
+   "other_names": [
+    "Hui Chon",
+    "Song Phyong 7"
+   ],
+   "imo": "8405270",
+   "mmsi": [
+    "445468000",
+    "445113000",
+    "445554000"
+   ],
+   "call_sign": [
+    "HMYK7",
+    "HMZI",
+    "HMZB7"
+   ],
+   "flag": [
+    "Democratic People’s Republic of Korea"
+   ],
+   "vessel_type": "General Cargo Ship",
+   "designated_on": "2017-06-21",
+   "measures": [
+    "Asset freeze as economic resource controlled or operated by Ocean Maritime Management (KPe.020) - designated 2017-06-21"
+   ],
+   "other_information": "Listed as an economic resource controlled or operated by the designated company Ocean Maritime Management Company (OMM). Vessel subject to asset freeze – see paragraph 23 of resolution 2270 (2016).",
+   "linked_entities": [],
+   "listing_expires": "",
+   "source_url": "https://main.un.org/securitycouncil/sites/default/files/1718_designated_vessels_list_final.pdf",
+   "list_row": 16
+  },
+  {
+   "dataid": "V1718-8018900",
+   "source": "1718 Designated Vessels List",
+   "regime": "DPRK",
+   "reference": "1718 list no. 17",
+   "name": "Hyok Sin 2",
+   "other_names": [
+    "Ji Hye San",
+    "Ri Won 105"
+   ],
+   "imo": "8018900",
+   "mmsi": [
+    "445167000",
+    "445128000",
+    "445549000"
+   ],
+   "call_sign": [
+    "HMZO",
+    "HMBN",
+    "HMZA8"
+   ],
+   "flag": [
+    "Democratic People’s Republic of Korea"
+   ],
+   "vessel_type": "Bulk Carrier",
+   "designated_on": "2017-06-21",
+   "measures": [
+    "Asset freeze as economic resource controlled or operated by Ocean Maritime Management (KPe.020) - designated 2017-06-21"
+   ],
+   "other_information": "Listed as an economic resource controlled or operated by the designated company Ocean Maritime Management Company (OMM). Vessel subject to asset freeze – see paragraph 23 of resolution 2270 (2016).",
+   "linked_entities": [],
+   "listing_expires": "",
+   "source_url": "https://main.un.org/securitycouncil/sites/default/files/1718_designated_vessels_list_final.pdf",
+   "list_row": 17
+  },
+  {
+   "dataid": "V1718-8133530",
+   "source": "1718 Designated Vessels List",
+   "regime": "DPRK",
+   "reference": "1718 list no. 18",
+   "name": "Jang Ja San Chong Nyon Ho",
+   "other_names": [
+    "Songjin",
+    "Song Jin",
+    "Hongwon 88"
+   ],
+   "imo": "8133530",
+   "mmsi": [
+    "445121000",
+    "445366000"
+   ],
+   "call_sign": [
+    "HMBM",
+    "HMZE"
+   ],
+   "flag": [
+    "Democratic People’s Republic of Korea"
+   ],
+   "vessel_type": "Bulk Carrier",
+   "designated_on": "2017-06-21",
+   "measures": [
+    "Asset freeze as economic resource controlled or operated by Ocean Maritime Management (KPe.020) - designated 2017-06-21"
+   ],
+   "other_information": "Listed as an economic resource controlled or operated by the designated company Ocean Maritime Management Company (OMM). Vessel subject to asset freeze – see paragraph 23 of resolution 2270 (2016).",
+   "linked_entities": [],
+   "listing_expires": "",
+   "source_url": "https://main.un.org/securitycouncil/sites/default/files/1718_designated_vessels_list_final.pdf",
+   "list_row": 18
+  },
+  {
+   "dataid": "V1718-8898740",
+   "source": "1718 Designated Vessels List",
+   "regime": "DPRK",
+   "reference": "1718 list no. 19",
+   "name": "JI SONG 6",
+   "other_names": [],
+   "imo": "8898740",
+   "mmsi": [],
+   "call_sign": [],
+   "flag": [],
+   "vessel_type": "",
+   "designated_on": "2018-03-30",
+   "measures": [
+    "Asset freeze of designated vessel (paragraph 12(d) of resolution 2321 (2016)) - designated 2018-03-30",
+    "Port entry ban (paragraph 6 of resolution 2371 (2017) and paragraph 6 of resolution 2375 (2017)) - designated 2018-03-30"
+   ],
+   "other_information": "DPRK tanker M/V JI SONG 6 was involved in ship-to-ship transfer operations of oil in late January 2018.",
+   "linked_entities": [
+    "KPe.070 PHYONGCHON SHIPPING & MARINE"
+   ],
+   "listing_expires": "",
+   "source_url": "https://main.un.org/securitycouncil/sites/default/files/1718_designated_vessels_list_final.pdf",
+   "list_row": 19
+  },
+  {
+   "dataid": "V1718-8503228",
+   "source": "1718 Designated Vessels List",
+   "regime": "DPRK",
+   "reference": "1718 list no. 20",
+   "name": "JI SONG 8",
+   "other_names": [],
+   "imo": "8503228",
+   "mmsi": [],
+   "call_sign": [],
+   "flag": [],
+   "vessel_type": "",
+   "designated_on": "2018-03-30",
+   "measures": [
+    "Asset freeze (paragraph 8(d) of resolution 1718 (2006) and paragraph 12 of resolution 2270 (2016)) - designated 2018-03-30"
+   ],
+   "other_information": "DPRK cargo vessel M/V JI SONG 8 is owned by Phyongchon Shipping & Marine and is believed to have been involved in illicit transfers of prohibited DPRK goods.",
+   "linked_entities": [
+    "KPe.070 Phyongchon Shipping & Marine"
+   ],
+   "listing_expires": "",
+   "source_url": "https://main.un.org/securitycouncil/sites/default/files/1718_designated_vessels_list_final.pdf",
+   "list_row": 20
+  },
+  {
+   "dataid": "V1718-8518780",
+   "source": "1718 Designated Vessels List",
+   "regime": "DPRK",
+   "reference": "1718 list no. 21",
+   "name": "JIE SHUN",
+   "other_names": [],
+   "imo": "8518780",
+   "mmsi": [
+    "514569000"
+   ],
+   "call_sign": [],
+   "flag": [],
+   "vessel_type": "",
+   "designated_on": "2017-10-03",
+   "measures": [
+    "Port entry ban (paragraph 6 of resolution 2371 (2017) and paragraph 6 of resolution 2375 (2017)) - designated 2017-10-03"
+   ],
+   "other_information": "",
+   "linked_entities": [],
+   "listing_expires": "",
+   "source_url": "https://main.un.org/securitycouncil/sites/default/files/1718_designated_vessels_list_final.pdf",
+   "list_row": 21
+  },
+  {
+   "dataid": "V1718-8518572",
+   "source": "1718 Designated Vessels List",
+   "regime": "DPRK",
+   "reference": "1718 list no. 22",
+   "name": "JIN HYE",
+   "other_names": [],
+   "imo": "8518572",
+   "mmsi": [],
+   "call_sign": [],
+   "flag": [],
+   "vessel_type": "",
+   "designated_on": "2018-03-30",
+   "measures": [
+    "De-flagging (paragraph 12(a) of resolution 2321 (2016)) - designated 2018-03-30",
+    "Port entry ban (paragraph 6 of resolution 2371 (2017) and paragraph 6 of resolution 2375 (2017)) - designated 2018-03-30"
+   ],
+   "other_information": "M/V JIN HYE engaged in a ship-to- ship transfer with M/V CHON MA SAN on 16 December 2017.",
+   "linked_entities": [],
+   "listing_expires": "",
+   "source_url": "https://main.un.org/securitycouncil/sites/default/files/1718_designated_vessels_list_final.pdf",
+   "list_row": 22
+  },
+  {
+   "dataid": "V1718-8018912",
+   "source": "1718 Designated Vessels List",
+   "regime": "DPRK",
+   "reference": "1718 list no. 23",
+   "name": "Jon Jin 2",
+   "other_names": [
+    "Ryong Rim",
+    "Sin Pho 99"
+   ],
+   "imo": "8018912",
+   "mmsi": [
+    "445168000",
+    "445110000",
+    "445546000"
+   ],
+   "call_sign": [
+    "HMBI",
+    "HMYH",
+    "HMZB2"
+   ],
+   "flag": [
+    "Democratic People’s Republic of Korea"
+   ],
+   "vessel_type": "Bulk Carrier",
+   "designated_on": "2017-06-21",
+   "measures": [
+    "Asset freeze as economic resource controlled or operated by Ocean Maritime Management (KPe.020) - designated 2017-06-21"
+   ],
+   "other_information": "Listed as an economic resource controlled or operated by the designated company Ocean Maritime Management Company (OMM). Vessel subject to asset freeze – see paragraph 23 of resolution 2270 (2016).",
+   "linked_entities": [],
+   "listing_expires": "",
+   "source_url": "https://main.un.org/securitycouncil/sites/default/files/1718_designated_vessels_list_final.pdf",
+   "list_row": 23
+  },
+  {
+   "dataid": "V1718-9417115",
+   "source": "1718 Designated Vessels List",
+   "regime": "DPRK",
+   "reference": "1718 list no. 24",
+   "name": "KOTI",
+   "other_names": [],
+   "imo": "9417115",
+   "mmsi": [],
+   "call_sign": [],
+   "flag": [],
+   "vessel_type": "",
+   "designated_on": "2018-03-30",
+   "measures": [
+    "De-flagging (paragraph 12(a) of resolution 2321 (2016)) - designated 2018-03-30",
+    "Port entry ban (paragraph 6 of resolution 2371 (2017) and paragraph 6 of resolution 2375 (2017)) - designated 2018-03-30"
+   ],
+   "other_information": "M/V KOTI engaged in a ship-to-ship transfer, likely for oil, with M/V KUM UN SAN 3 on 9 December 2017.",
+   "linked_entities": [
+    "KPe.067 KOTI CORP"
+   ],
+   "listing_expires": "",
+   "source_url": "https://main.un.org/securitycouncil/sites/default/files/1718_designated_vessels_list_final.pdf",
+   "list_row": 24
+  },
+  {
+   "dataid": "V1718-8705539",
+   "source": "1718 Designated Vessels List",
+   "regime": "DPRK",
+   "reference": "1718 list no. 25",
+   "name": "KUM UN SAN 3",
+   "other_names": [],
+   "imo": "8705539",
+   "mmsi": [],
+   "call_sign": [],
+   "flag": [],
+   "vessel_type": "",
+   "designated_on": "2018-10-16",
+   "measures": [
+    "De-flagging (paragraph 12(a) of resolution 2321 (2016)) - designated 2018-10-16",
+    "Port entry ban (paragraph 6 of resolution 2371 (2017) and paragraph 6 of resolution 2375 (2017)) - designated 2018-10-16"
+   ],
+   "other_information": "The DPRK oil tanker KUM UN SAN 3 engaged in a ship-to-ship transfer, likely for oil, with the M/V NEW REGENT on June 7, 2018.",
+   "linked_entities": [
+    "KPe.067 KOTI CORP"
+   ],
+   "listing_expires": "",
+   "source_url": "https://main.un.org/securitycouncil/sites/default/files/1718_designated_vessels_list_final.pdf",
+   "list_row": 25
+  },
+  {
+   "dataid": "V1718-8713471",
+   "source": "1718 Designated Vessels List",
+   "regime": "DPRK",
+   "reference": "1718 list no. 26",
+   "name": "Mi Rim",
+   "other_names": [],
+   "imo": "8713471",
+   "mmsi": [
+    "445498000"
+   ],
+   "call_sign": [
+    "HMMS"
+   ],
+   "flag": [
+    "Democratic People’s Republic of Korea"
+   ],
+   "vessel_type": "General Cargo Ship",
+   "designated_on": "2017-06-21",
+   "measures": [
+    "Asset freeze as economic resource controlled or operated by Ocean Maritime Management (KPe.020) - designated 2017-06-21"
+   ],
+   "other_information": "Listed as an economic resource controlled or operated by the designated company Ocean Maritime Management Company (OMM). Vessel subject to asset freeze – see paragraph 23 of resolution 2270 (2016).",
+   "linked_entities": [],
+   "listing_expires": "",
+   "source_url": "https://main.un.org/securitycouncil/sites/default/files/1718_designated_vessels_list_final.pdf",
+   "list_row": 26
+  },
+  {
+   "dataid": "V1718-9361407",
+   "source": "1718 Designated Vessels List",
+   "regime": "DPRK",
+   "reference": "1718 list no. 27",
+   "name": "Mi Rim 2",
+   "other_names": [],
+   "imo": "9361407",
+   "mmsi": [
+    "445716000",
+    "445043000"
+   ],
+   "call_sign": [
+    "HMLP"
+   ],
+   "flag": [
+    "Democratic People’s Republic of Korea"
+   ],
+   "vessel_type": "General Cargo Ship",
+   "designated_on": "2017-06-21",
+   "measures": [
+    "Asset freeze as economic resource controlled or operated by Ocean Maritime Management (KPe.020) - designated 2017-06-21"
+   ],
+   "other_information": "Listed as an economic resource controlled or operated by the designated company Ocean Maritime Management Company (OMM). Vessel subject to asset freeze – see paragraph 23 of resolution 2270 (2016).",
+   "linked_entities": [],
+   "listing_expires": "",
+   "source_url": "https://main.un.org/securitycouncil/sites/default/files/1718_designated_vessels_list_final.pdf",
+   "list_row": 27
+  },
+  {
+   "dataid": "V1718-NOIMO-MINNINGDEYOU078",
+   "source": "1718 Designated Vessels List",
+   "regime": "DPRK",
+   "reference": "1718 list no. 28",
+   "name": "MIN NING DE YOU 078",
+   "other_names": [],
+   "imo": "",
+   "mmsi": [],
+   "call_sign": [],
+   "flag": [],
+   "vessel_type": "",
+   "designated_on": "2018-03-30",
+   "measures": [
+    "De-flagging (paragraph 12(a) of resolution 2321 (2016)) - designated 2018-03-30",
+    "Port entry ban (paragraph 6 of resolution 2371 (2017) and paragraph 6 of resolution 2375 (2017)) - designated 2018-03-30"
+   ],
+   "other_information": "M/V MIN NING DE YOU engaged in a ship-to-ship transfer, likely for oil, with M/V YU JONG 2 on 16 February 2018.",
+   "linked_entities": [],
+   "listing_expires": "",
+   "source_url": "https://main.un.org/securitycouncil/sites/default/files/1718_designated_vessels_list_final.pdf",
+   "list_row": 28
+  },
+  {
+   "dataid": "V1718-8122347",
+   "source": "1718 Designated Vessels List",
+   "regime": "DPRK",
+   "reference": "1718 list no. 29",
+   "name": "NAM SAN 8",
+   "other_names": [],
+   "imo": "8122347",
+   "mmsi": [],
+   "call_sign": [],
+   "flag": [],
+   "vessel_type": "",
+   "designated_on": "2018-03-30",
+   "measures": [
+    "Asset freeze of designated vessel (paragraph 12(d) of resolution 2321 (2016)) - designated 2018-03-30",
+    "Port entry ban (paragraph 6 of resolution 2371 (2017) and paragraph 6 of resolution 2375 (2017)) - designated 2018-03-30"
+   ],
+   "other_information": "DPRK crude oil tanker M/V NAM SAN 8 is believed to have been involved in ship-to-ship transfer operations for oil.",
+   "linked_entities": [
+    "KPe.058 HAPJANGGANG SHIPPING CORP"
+   ],
+   "listing_expires": "",
+   "source_url": "https://main.un.org/securitycouncil/sites/default/files/1718_designated_vessels_list_final.pdf",
+   "list_row": 29
+  },
+  {
+   "dataid": "V1718-8312497",
+   "source": "1718 Designated Vessels List",
+   "regime": "DPRK",
+   "reference": "1718 list no. 30",
+   "name": "NEW REGENT",
+   "other_names": [],
+   "imo": "8312497",
+   "mmsi": [],
+   "call_sign": [],
+   "flag": [],
+   "vessel_type": "",
+   "designated_on": "2018-10-16",
+   "measures": [
+    "De-flagging (paragraph 12(a) of resolution 2321 (2016)) - designated 2018-10-16",
+    "Port entry ban (paragraph 6 of resolution 2371 (2017) and paragraph 6 of resolution 2375 (2017)) - designated 2018-10-16"
+   ],
+   "other_information": "The M/V NEW REGENT engaged in a ship-to-ship transfer, likely for oil, with DPRK oil tanker KUM UN SAN 3 on June 7, 2018.",
+   "linked_entities": [],
+   "listing_expires": "",
+   "source_url": "https://main.un.org/securitycouncil/sites/default/files/1718_designated_vessels_list_final.pdf",
+   "list_row": 30
+  },
+  {
+   "dataid": "V1718-8330815",
+   "source": "1718 Designated Vessels List",
+   "regime": "DPRK",
+   "reference": "1718 list no. 31",
+   "name": "O Un Chong Nyon Ho",
+   "other_names": [
+    "Hu Chang"
+   ],
+   "imo": "8330815",
+   "mmsi": [
+    "445112000",
+    "445116000"
+   ],
+   "call_sign": [
+    "HMAD",
+    "HMBJ"
+   ],
+   "flag": [
+    "Democratic People’s Republic of Korea"
+   ],
+   "vessel_type": "General Cargo Ship",
+   "designated_on": "2017-06-21",
+   "measures": [
+    "Asset freeze as economic resource controlled or operated by Ocean Maritime Management (KPe.020) - designated 2017-06-21"
+   ],
+   "other_information": "Listed as an economic resource controlled or operated by the designated company Ocean Maritime Management Company (OMM). Vessel subject to asset freeze – see paragraph 23 of resolution 2270 (2016). Reported broken up 03/2016.",
+   "linked_entities": [],
+   "listing_expires": "",
+   "source_url": "https://main.un.org/securitycouncil/sites/default/files/1718_designated_vessels_list_final.pdf",
+   "list_row": 31
+  },
+  {
+   "dataid": "V1718-9066978",
+   "source": "1718 Designated Vessels List",
+   "regime": "DPRK",
+   "reference": "1718 list no. 32",
+   "name": "PAEK MA",
+   "other_names": [],
+   "imo": "9066978",
+   "mmsi": [],
+   "call_sign": [],
+   "flag": [],
+   "vessel_type": "",
+   "designated_on": "2018-03-30",
+   "measures": [
+    "Asset freeze of designated vessel (paragraph 12(d) of resolution 2321 (2016)) - designated 2018-03-30",
+    "Port entry ban (paragraph 6 of resolution 2371 (2017) and paragraph 6 of resolution 2375 (2017)) - designated 2018-03-30"
+   ],
+   "other_information": "DPRK vessel M/V PAEK MA was involved in ship-to-ship transfer operations for oil in mid-January 2018.",
+   "linked_entities": [
+    "KPe.057 FIRST OIL JV CO LTD",
+    "KPe.069 PAEKMA SHIPPING CO"
+   ],
+   "listing_expires": "",
+   "source_url": "https://main.un.org/securitycouncil/sites/default/files/1718_designated_vessels_list_final.pdf",
+   "list_row": 32
+  },
+  {
+   "dataid": "V1718-9009085",
+   "source": "1718 Designated Vessels List",
+   "regime": "DPRK",
+   "reference": "1718 list no. 33",
+   "name": "Petrel 1",
+   "other_names": [
+    "Thae Pyong San"
+   ],
+   "imo": "9009085",
+   "mmsi": [
+    "515040000",
+    "445527000"
+   ],
+   "call_sign": [
+    "XUJX5",
+    "HMXQ"
+   ],
+   "flag": [
+    "Cambodia",
+    "Democratic People’s Republic of Korea"
+   ],
+   "vessel_type": "General Cargo Ship",
+   "designated_on": "2017-06-21",
+   "measures": [
+    "Asset freeze as economic resource controlled or operated by Ocean Maritime Management (KPe.020) - designated 2017-06-21"
+   ],
+   "other_information": "Listed as an economic resource controlled or operated by the designated company Ocean Maritime Management Company (OMM). Vessel subject to asset freeze – see paragraph 23 resolution 2270 (2016).",
+   "linked_entities": [],
+   "listing_expires": "",
+   "source_url": "https://main.un.org/securitycouncil/sites/default/files/1718_designated_vessels_list_final.pdf",
+   "list_row": 33
+  },
+  {
+   "dataid": "V1718-9562233",
+   "source": "1718 Designated Vessels List",
+   "regime": "DPRK",
+   "reference": "1718 list no. 34",
+   "name": "PETREL 8",
+   "other_names": [],
+   "imo": "9562233",
+   "mmsi": [
+    "620233000"
+   ],
+   "call_sign": [],
+   "flag": [],
+   "vessel_type": "",
+   "designated_on": "2017-10-03",
+   "measures": [
+    "Port entry ban (paragraph 6 of resolution 2371 (2017) and paragraph 6 of resolution 2375 (2017)) - designated 2017-10-03"
+   ],
+   "other_information": "",
+   "linked_entities": [],
+   "listing_expires": "",
+   "source_url": "https://main.un.org/securitycouncil/sites/default/files/1718_designated_vessels_list_final.pdf",
+   "list_row": 34
+  },
+  {
+   "dataid": "V1718-8829593",
+   "source": "1718 Designated Vessels List",
+   "regime": "DPRK",
+   "reference": "1718 list no. 35",
+   "name": "Pi Ryu Gang",
+   "other_names": [
+    "Kang Gye"
+   ],
+   "imo": "8829593",
+   "mmsi": [
+    "445122000",
+    "445106000"
+   ],
+   "call_sign": [
+    "HMAK",
+    "HMAH"
+   ],
+   "flag": [
+    "Democratic People’s Republic of Korea"
+   ],
+   "vessel_type": "General Cargo Ship",
+   "designated_on": "2017-06-21",
+   "measures": [
+    "Asset freeze as economic resource controlled or operated by Ocean Maritime Management (KPe.020) - designated 2017-06-21"
+   ],
+   "other_information": "Listed as an economic resource controlled or operated by the designated company Ocean Maritime Management Company (OMM). Vessel subject to asset freeze – see paragraph 23 of resolution 2270 (2016).",
+   "linked_entities": [],
+   "listing_expires": "",
+   "source_url": "https://main.un.org/securitycouncil/sites/default/files/1718_designated_vessels_list_final.pdf",
+   "list_row": 35
+  },
+  {
+   "dataid": "V1718-8829555",
+   "source": "1718 Designated Vessels List",
+   "regime": "DPRK",
+   "reference": "1718 list no. 36",
+   "name": "Po Thong Gang",
+   "other_names": [
+    "O Rang",
+    "Song Phyong 1"
+   ],
+   "imo": "8829555",
+   "mmsi": [
+    "445127000",
+    "445142000"
+   ],
+   "call_sign": [
+    "HMZJ",
+    "HMBW"
+   ],
+   "flag": [
+    "Democratic People’s Republic of Korea"
+   ],
+   "vessel_type": "General Cargo Ship",
+   "designated_on": "2017-06-21",
+   "measures": [
+    "Asset freeze as economic resource controlled or operated by Ocean Maritime Management (KPe.020) - designated 2017-06-21"
+   ],
+   "other_information": "Listed as an economic resource controlled or operated by the designated company Ocean Maritime Management Company (OMM). Vessel subject to asset freeze – see paragraph 23 of resolution 2270 (2016).",
+   "linked_entities": [],
+   "listing_expires": "",
+   "source_url": "https://main.un.org/securitycouncil/sites/default/files/1718_designated_vessels_list_final.pdf",
+   "list_row": 36
+  },
+  {
+   "dataid": "V1718-8625545",
+   "source": "1718 Designated Vessels List",
+   "regime": "DPRK",
+   "reference": "1718 list no. 37",
+   "name": "Ra Nam 2",
+   "other_names": [],
+   "imo": "8625545",
+   "mmsi": [
+    "445470000"
+   ],
+   "call_sign": [
+    "HMMG"
+   ],
+   "flag": [
+    "Democratic People’s Republic of Korea"
+   ],
+   "vessel_type": "General Cargo Ship",
+   "designated_on": "2017-06-21",
+   "measures": [
+    "Asset freeze as economic resource controlled or operated by Ocean Maritime Management (KPe.020) - designated 2017-06-21"
+   ],
+   "other_information": "Listed as an economic resource controlled or operated by the designated company Ocean Maritime Management Company (OMM). Vessel subject to asset freeze – see paragraph 23 of resolution 2270 (2016).",
+   "linked_entities": [],
+   "listing_expires": "",
+   "source_url": "https://main.un.org/securitycouncil/sites/default/files/1718_designated_vessels_list_final.pdf",
+   "list_row": 37
+  },
+  {
+   "dataid": "V1718-9314650",
+   "source": "1718 Designated Vessels List",
+   "regime": "DPRK",
+   "reference": "1718 list no. 38",
+   "name": "Ra Nam 3",
+   "other_names": [
+    "Ranam 3"
+   ],
+   "imo": "9314650",
+   "mmsi": [
+    "445024000"
+   ],
+   "call_sign": [
+    "HMPQ"
+   ],
+   "flag": [
+    "Democratic People’s Republic of Korea"
+   ],
+   "vessel_type": "General Cargo Ship",
+   "designated_on": "2017-06-21",
+   "measures": [
+    "Asset freeze as economic resource controlled or operated by Ocean Maritime Management (KPe.020) - designated 2017-06-21"
+   ],
+   "other_information": "Listed as an economic resource controlled or operated by the designated company Ocean Maritime Management Company (OMM). Vessel subject to asset freeze – see paragraph 23 of resolution 2270 (2016).",
+   "linked_entities": [],
+   "listing_expires": "",
+   "source_url": "https://main.un.org/securitycouncil/sites/default/files/1718_designated_vessels_list_final.pdf",
+   "list_row": 38
+  },
+  {
+   "dataid": "V1718-8819017",
+   "source": "1718 Designated Vessels List",
+   "regime": "DPRK",
+   "reference": "1718 list no. 39",
+   "name": "Rak Won 2",
+   "other_names": [
+    "Se Pho",
+    "Buryong3"
+   ],
+   "imo": "8819017",
+   "mmsi": [
+    "445140000",
+    "445100000"
+   ],
+   "call_sign": [
+    "HMBC",
+    "HMZG",
+    "HMEG"
+   ],
+   "flag": [
+    "Democratic People’s Republic of Korea"
+   ],
+   "vessel_type": "General Cargo Ship",
+   "designated_on": "2017-06-21",
+   "measures": [
+    "Asset freeze as economic resource controlled or operated by Ocean Maritime Management (KPe.020) - designated 2017-06-21"
+   ],
+   "other_information": "Listed as an economic resource controlled or operated by the designated company Ocean Maritime Management Company (OMM). Vessel subject to asset freeze – see paragraph 23 of resolution 2270 (2016).",
+   "linked_entities": [],
+   "listing_expires": "",
+   "source_url": "https://main.un.org/securitycouncil/sites/default/files/1718_designated_vessels_list_final.pdf",
+   "list_row": 39
+  },
+  {
+   "dataid": "V1718-9020534",
+   "source": "1718 Designated Vessels List",
+   "regime": "DPRK",
+   "reference": "1718 list no. 40",
+   "name": "RUNG RA 2",
+   "other_names": [],
+   "imo": "9020534",
+   "mmsi": [],
+   "call_sign": [],
+   "flag": [],
+   "vessel_type": "",
+   "designated_on": "2017-12-28",
+   "measures": [
+    "Port entry ban (paragraph 6 of resolution 2371 (2017) and paragraph 6 of resolution 2375 (2017)) - designated 2017-12-28"
+   ],
+   "other_information": "",
+   "linked_entities": [],
+   "listing_expires": "",
+   "source_url": "https://main.un.org/securitycouncil/sites/default/files/1718_designated_vessels_list_final.pdf",
+   "list_row": 40
+  },
+  {
+   "dataid": "V1718-7389704",
+   "source": "1718 Designated Vessels List",
+   "regime": "DPRK",
+   "reference": "1718 list no. 41",
+   "name": "RYE SONG GANG 1",
+   "other_names": [],
+   "imo": "7389704",
+   "mmsi": [],
+   "call_sign": [],
+   "flag": [],
+   "vessel_type": "",
+   "designated_on": "2017-12-28",
+   "measures": [
+    "Port entry ban (paragraph 6 of resolution 2371 (2017) and paragraph 6 of resolution 2375 (2017)) - designated 2017-12-28"
+   ],
+   "other_information": "",
+   "linked_entities": [],
+   "listing_expires": "",
+   "source_url": "https://main.un.org/securitycouncil/sites/default/files/1718_designated_vessels_list_final.pdf",
+   "list_row": 41
+  },
+  {
+   "dataid": "V1718-8987333",
+   "source": "1718 Designated Vessels List",
+   "regime": "DPRK",
+   "reference": "1718 list no. 42",
+   "name": "Ryo Myong",
+   "other_names": [],
+   "imo": "8987333",
+   "mmsi": [
+    "445023000"
+   ],
+   "call_sign": [
+    "HMPP"
+   ],
+   "flag": [
+    "Democratic People’s Republic of Korea"
+   ],
+   "vessel_type": "General Cargo Ship",
+   "designated_on": "2017-06-21",
+   "measures": [
+    "Asset freeze as economic resource controlled or operated by Ocean Maritime Management (KPe.020) - designated 2017-06-21"
+   ],
+   "other_information": "Listed as an economic resource controlled or operated by the designated company Ocean Maritime Management Company (OMM). Vessel subject to asset freeze – see paragraph 23 of resolution 2270 (2016).",
+   "linked_entities": [],
+   "listing_expires": "",
+   "source_url": "https://main.un.org/securitycouncil/sites/default/files/1718_designated_vessels_list_final.pdf",
+   "list_row": 42
+  },
+  {
+   "dataid": "V1718-7640378",
+   "source": "1718 Designated Vessels List",
+   "regime": "DPRK",
+   "reference": "1718 list no. 43",
+   "name": "Ryong Gang 2",
+   "other_names": [
+    "Tan Chon"
+   ],
+   "imo": "7640378",
+   "mmsi": [
+    "445225000",
+    "445135000"
+   ],
+   "call_sign": [
+    "HMZM",
+    "HMAI"
+   ],
+   "flag": [
+    "Democratic People’s Republic of Korea"
+   ],
+   "vessel_type": "General Cargo Ship",
+   "designated_on": "2017-06-21",
+   "measures": [
+    "Asset freeze as economic resource controlled or operated by Ocean Maritime Management (KPe.020) - designated 2017-06-21"
+   ],
+   "other_information": "Listed as an economic resource controlled or operated by the designated company Ocean Maritime Management Company (OMM). Vessel subject to asset freeze – see paragraph 23 of resolution 2270 (2016).",
+   "linked_entities": [],
+   "listing_expires": "",
+   "source_url": "https://main.un.org/securitycouncil/sites/default/files/1718_designated_vessels_list_final.pdf",
+   "list_row": 43
+  },
+  {
+   "dataid": "V1718-8606173",
+   "source": "1718 Designated Vessels List",
+   "regime": "DPRK",
+   "reference": "1718 list no. 44",
+   "name": "Ryong Gun Bong",
+   "other_names": [
+    "Chol Ryong",
+    "Pukchong 33"
+   ],
+   "imo": "8606173",
+   "mmsi": [
+    "445268000",
+    "445144000",
+    "445548000"
+   ],
+   "call_sign": [
+    "HMYJ",
+    "HMBR",
+    "HMZA5"
+   ],
+   "flag": [
+    "Democratic People’s Republic of Korea"
+   ],
+   "vessel_type": "General Cargo Ship",
+   "designated_on": "2017-06-21",
+   "measures": [
+    "Asset freeze as economic resource controlled or operated by Ocean Maritime Management (KPe.020) - designated 2017-06-21"
+   ],
+   "other_information": "Listed as an economic resource controlled or operated by the designated company Ocean Maritime Management Company (OMM). Vessel subject to asset freeze – see paragraph 23 of resolution 2270 (2016).",
+   "linked_entities": [],
+   "listing_expires": "",
+   "source_url": "https://main.un.org/securitycouncil/sites/default/files/1718_designated_vessels_list_final.pdf",
+   "list_row": 44
+  },
+  {
+   "dataid": "V1718-8405311",
+   "source": "1718 Designated Vessels List",
+   "regime": "DPRK",
+   "reference": "1718 list no. 45",
+   "name": "SAM JONG 1",
+   "other_names": [],
+   "imo": "8405311",
+   "mmsi": [],
+   "call_sign": [],
+   "flag": [],
+   "vessel_type": "",
+   "designated_on": "2018-03-30",
+   "measures": [
+    "Asset freeze of designated vessel (paragraph 12(d) of resolution 2321 (2016)) - designated 2018-03-30",
+    "Port entry ban (paragraph 6 of resolution 2371 (2017) and paragraph 6 of resolution 2375 (2017)) - designated 2018-03-30"
+   ],
+   "other_information": "DPRK merchant vessel M/V SAM JONG 1 was involved in ship-to-ship transfer operations of oil in late January 2018.",
+   "linked_entities": [
+    "KPe.064 KOREA SAMJONG SHIPPING"
+   ],
+   "listing_expires": "",
+   "source_url": "https://main.un.org/securitycouncil/sites/default/files/1718_designated_vessels_list_final.pdf",
+   "list_row": 45
+  },
+  {
+   "dataid": "V1718-7408873",
+   "source": "1718 Designated Vessels List",
+   "regime": "DPRK",
+   "reference": "1718 list no. 46",
+   "name": "SAM JONG 2",
+   "other_names": [],
+   "imo": "7408873",
+   "mmsi": [],
+   "call_sign": [],
+   "flag": [],
+   "vessel_type": "",
+   "designated_on": "2018-03-30",
+   "measures": [
+    "Asset freeze of designated vessel (paragraph 12(d) of resolution 2321 (2016)) - designated 2018-03-30",
+    "Port entry ban (paragraph 6 of resolution 2371 (2017) and paragraph 6 of resolution 2375 (2017)) - designated 2018-03-30"
+   ],
+   "other_information": "DPRK merchant vessel M/V SAM JONG 2 was involved in ship-to-ship transfer operations of oil in late January 2018.",
+   "linked_entities": [
+    "KPe.064 KOREA SAMJONG SHIPPING"
+   ],
+   "listing_expires": "",
+   "source_url": "https://main.un.org/securitycouncil/sites/default/files/1718_designated_vessels_list_final.pdf",
+   "list_row": 46
+  },
+  {
+   "dataid": "V1718-8106496",
+   "source": "1718 Designated Vessels List",
+   "regime": "DPRK",
+   "reference": "1718 list no. 47",
+   "name": "SAM MA 2",
+   "other_names": [],
+   "imo": "8106496",
+   "mmsi": [],
+   "call_sign": [],
+   "flag": [],
+   "vessel_type": "",
+   "designated_on": "2018-03-30",
+   "measures": [
+    "Asset freeze of designated vessel (paragraph 12(d) of resolution 2321 (2016)) - designated 2018-03-30",
+    "Port entry ban (paragraph 6 of resolution 2371 (2017) and paragraph 6 of resolution 2375 (2017)) - designated 2018-03-30"
+   ],
+   "other_information": "DPRK oil tanker M/V SAM MA 2 imported refined petroleum products in October, early November and mid-November 2017 through multiple ship-to-ship transfers.",
+   "linked_entities": [
+    "KPe.065 KOREA SAMMA SHIPPING CO"
+   ],
+   "listing_expires": "",
+   "source_url": "https://main.un.org/securitycouncil/sites/default/files/1718_designated_vessels_list_final.pdf",
+   "list_row": 47
+  },
+  {
+   "dataid": "V1718-8126070",
+   "source": "1718 Designated Vessels List",
+   "regime": "DPRK",
+   "reference": "1718 list no. 48",
+   "name": "SHANG YUAN BAO",
+   "other_names": [],
+   "imo": "8126070",
+   "mmsi": [],
+   "call_sign": [],
+   "flag": [],
+   "vessel_type": "",
+   "designated_on": "2018-10-16",
+   "measures": [
+    "De-flagging (paragraph 12(a) of resolution 2321 (2016)) - designated 2018-10-16",
+    "Port entry ban (paragraph 6 of resolution 2371 (2017) and paragraph 6 of resolution 2375 (2017)) - designated 2018-10-16"
+   ],
+   "other_information": "The merchant vessel M/V SHANG YUAN BAO engaged in a ship-to-ship transfer, likely for oil, with UN- designated DPRK vessel M/V PAEK MA on May 18, 2018. The SHANG YUAN BAO also engaged in a ship- to-ship transfer, likely for oil, with the DPRK vessel MYONG RYU 1 on June 2, 2018.",
+   "linked_entities": [],
+   "listing_expires": "",
+   "source_url": "https://main.un.org/securitycouncil/sites/default/files/1718_designated_vessels_list_final.pdf",
+   "list_row": 48
+  },
+  {
+   "dataid": "V1718-8412467",
+   "source": "1718 Designated Vessels List",
+   "regime": "DPRK",
+   "reference": "1718 list no. 49",
+   "name": "South Hill 2",
+   "other_names": [],
+   "imo": "8412467",
+   "mmsi": [
+    "667003342"
+   ],
+   "call_sign": [
+    "9LY2539"
+   ],
+   "flag": [
+    "Sierra Leone"
+   ],
+   "vessel_type": "Bulk Carrier",
+   "designated_on": "2017-06-21",
+   "measures": [
+    "Asset freeze as economic resource controlled or operated by Ocean Maritime Management (KPe.020) - designated 2017-06-21"
+   ],
+   "other_information": "Listed as an economic resource controlled or operated by the designated company Ocean Maritime Management Company (OMM). Vessel subject to asset freeze – see paragraph 23 of resolution 2270 (2016). Reported broken up 17/01/2016.",
+   "linked_entities": [],
+   "listing_expires": "",
+   "source_url": "https://main.un.org/securitycouncil/sites/default/files/1718_designated_vessels_list_final.pdf",
+   "list_row": 49
+  },
+  {
+   "dataid": "V1718-8661575",
+   "source": "1718 Designated Vessels List",
+   "regime": "DPRK",
+   "reference": "1718 list no. 50",
+   "name": "Tong Hung 1",
+   "other_names": [],
+   "imo": "8661575",
+   "mmsi": [
+    "445141000"
+   ],
+   "call_sign": [
+    "HMYI"
+   ],
+   "flag": [
+    "Democratic People’s Republic of Korea"
+   ],
+   "vessel_type": "General Cargo Ship",
+   "designated_on": "2017-06-21",
+   "measures": [
+    "Asset freeze as economic resource controlled or operated by Ocean Maritime Management (KPe.020) - designated 2017-06-21"
+   ],
+   "other_information": "Listed as an economic resource controlled or operated by the designated company Ocean Maritime Management Company (OMM). Vessel subject to asset freeze – see paragraph 23 of resolution 2270 (2016).",
+   "linked_entities": [],
+   "listing_expires": "",
+   "source_url": "https://main.un.org/securitycouncil/sites/default/files/1718_designated_vessels_list_final.pdf",
+   "list_row": 50
+  },
+  {
+   "dataid": "V1718-8937675",
+   "source": "1718 Designated Vessels List",
+   "regime": "DPRK",
+   "reference": "1718 list no. 51",
+   "name": "TONG SAN 2",
+   "other_names": [],
+   "imo": "8937675",
+   "mmsi": [
+    "445539000"
+   ],
+   "call_sign": [],
+   "flag": [],
+   "vessel_type": "",
+   "designated_on": "2017-10-03",
+   "measures": [
+    "Port entry ban (paragraph 6 of resolution 2371 (2017) and paragraph 6 of resolution 2375 (2017)) - designated 2017-10-03"
+   ],
+   "other_information": "",
+   "linked_entities": [],
+   "listing_expires": "",
+   "source_url": "https://main.un.org/securitycouncil/sites/default/files/1718_designated_vessels_list_final.pdf",
+   "list_row": 51
+  },
+  {
+   "dataid": "V1718-9114555",
+   "source": "1718 Designated Vessels List",
+   "regime": "DPRK",
+   "reference": "1718 list no. 52",
+   "name": "UL JI BONG 6",
+   "other_names": [],
+   "imo": "9114555",
+   "mmsi": [],
+   "call_sign": [],
+   "flag": [],
+   "vessel_type": "",
+   "designated_on": "2017-12-28",
+   "measures": [
+    "Port entry ban (paragraph 6 of resolution 2371 (2017) and paragraph 6 of resolution 2375 (2017)) - designated 2017-12-28"
+   ],
+   "other_information": "",
+   "linked_entities": [],
+   "listing_expires": "",
+   "source_url": "https://main.un.org/securitycouncil/sites/default/files/1718_designated_vessels_list_final.pdf",
+   "list_row": 52
+  },
+  {
+   "dataid": "V1718-8791667",
+   "source": "1718 Designated Vessels List",
+   "regime": "DPRK",
+   "reference": "1718 list no. 53",
+   "name": "WAN HENG 11",
+   "other_names": [],
+   "imo": "8791667",
+   "mmsi": [],
+   "call_sign": [],
+   "flag": [],
+   "vessel_type": "",
+   "designated_on": "2018-03-30",
+   "measures": [
+    "De-flagging (paragraph 12(a) of resolution 2321 (2016)) - designated 2018-03-30",
+    "Port entry ban (paragraph 6 of resolution 2371 (2017) and paragraph 6 of resolution 2375 (2017)) - designated 2018-03-30"
+   ],
+   "other_information": "M/V WAN HENG 11 engaged in a ship-to-ship transfer, likely for oil, with M/V RYE SONG GANG 1 on 13 February 2018. Wan Heng 11, formerly a Belize-flagged vessel, is now operating as a DPRK flagged vessel named the KUMJINGANG3 or Kum Jin Gang 3.",
+   "linked_entities": [],
+   "listing_expires": "",
+   "source_url": "https://main.un.org/securitycouncil/sites/default/files/1718_designated_vessels_list_final.pdf",
+   "list_row": 53
+  },
+  {
+   "dataid": "V1718-8408595",
+   "source": "1718 Designated Vessels List",
+   "regime": "DPRK",
+   "reference": "1718 list no. 54",
+   "name": "WOORY STAR",
+   "other_names": [],
+   "imo": "8408595",
+   "mmsi": [],
+   "call_sign": [],
+   "flag": [],
+   "vessel_type": "",
+   "designated_on": "2018-03-30",
+   "measures": [
+    "Asset freeze of designated vessel (paragraph 12(d) of resolution 2321 (2016)) - designated 2018-03-30",
+    "Port entry ban (paragraph 6 of resolution 2371 (2017) and paragraph 6 of resolution 2375 (2017)) - designated 2018-03-30"
+   ],
+   "other_information": "DPRK cargo vessel M/V WOORY STAR is believed to have been involved in illicit transfers of prohibited DPRK goods.",
+   "linked_entities": [
+    "KPe.070 PHYONGCHON SHIPPING & MARINE"
+   ],
+   "listing_expires": "",
+   "source_url": "https://main.un.org/securitycouncil/sites/default/files/1718_designated_vessels_list_final.pdf",
+   "list_row": 54
+  },
+  {
+   "dataid": "V1718-9004700",
+   "source": "1718 Designated Vessels List",
+   "regime": "DPRK",
+   "reference": "1718 list no. 55",
+   "name": "XIN GUANG HAI",
+   "other_names": [],
+   "imo": "9004700",
+   "mmsi": [],
+   "call_sign": [],
+   "flag": [],
+   "vessel_type": "",
+   "designated_on": "2018-03-30",
+   "measures": [
+    "De-flagging (paragraph 12(a) of resolution 2321 (2016)) - designated 2018-03-30",
+    "Port entry ban (paragraph 6 of resolution 2371 (2017) and paragraph 6 of resolution 2375 (2017)) - designated 2018-03-30"
+   ],
+   "other_information": "Merchant vessel M/V XIN GUANG HAI loaded DPRK coal at Taean, DPRK, on 27 October 2017 and transferred it to Port Klang, Malaysia, on 18 December 2017.",
+   "linked_entities": [
+    "KPe.074 WEIHAI WORLD-SHIPPING FREIGHT"
+   ],
+   "listing_expires": "",
+   "source_url": "https://main.un.org/securitycouncil/sites/default/files/1718_designated_vessels_list_final.pdf",
+   "list_row": 55
+  },
+  {
+   "dataid": "V1718-8604917",
+   "source": "1718 Designated Vessels List",
+   "regime": "DPRK",
+   "reference": "1718 list no. 56",
+   "name": "YU JONG 2",
+   "other_names": [],
+   "imo": "8604917",
+   "mmsi": [],
+   "call_sign": [],
+   "flag": [],
+   "vessel_type": "",
+   "designated_on": "2018-03-30",
+   "measures": [
+    "Asset freeze of designated vessel (paragraph 12(d) of resolution 2321 (2016)) - designated 2018-03-30",
+    "Port entry ban (paragraph 6 of resolution 2371 (2017) and paragraph 6 of resolution 2375 (2017)) - designated 2018-03-30"
+   ],
+   "other_information": "DPRK oil tanker M/V YU JONG 2 was involved in-ship-to ship transfer operations for oil in November 2017. M/V YU JONG 2 was also involved in a ship-to-ship transfer operation, likely for oil, with M/V MIN NING DE YOU 078 on 16 February 2018.",
+   "linked_entities": [
+    "KPe.061 KOREA ACHIM SHIPPING CO",
+    "KPe.066 KOREA YUJONG SHIPPING CO LTD"
+   ],
+   "listing_expires": "",
+   "source_url": "https://main.un.org/securitycouncil/sites/default/files/1718_designated_vessels_list_final.pdf",
+   "list_row": 56
+  },
+  {
+   "dataid": "V1718-8605026",
+   "source": "1718 Designated Vessels List",
+   "regime": "DPRK",
+   "reference": "1718 list no. 57",
+   "name": "YU PHYONG 5",
+   "other_names": [],
+   "imo": "8605026",
+   "mmsi": [],
+   "call_sign": [],
+   "flag": [],
+   "vessel_type": "",
+   "designated_on": "2018-03-30",
+   "measures": [
+    "Asset freeze of designated vessel (paragraph 12(d) of resolution 2321 (2016)) - designated 2018-03-30",
+    "Port entry ban (paragraph 6 of resolution 2371 (2017) and paragraph 6 of resolution 2375 (2017)) - designated 2018-03-30"
+   ],
+   "other_information": "DPRK merchant vessel M/V YU PHYONG 5 imported refined petroleum products to Nampo, DPRK, on 29 November 2017 through a ship-to-ship transfer conducted on 26 November 2017.",
+   "linked_entities": [
+    "KPe.063 KOREA MYONGDOK SHIPPING CO"
+   ],
+   "listing_expires": "",
+   "source_url": "https://main.un.org/securitycouncil/sites/default/files/1718_designated_vessels_list_final.pdf",
+   "list_row": 57
+  },
+  {
+   "dataid": "V1718-8691702",
+   "source": "1718 Designated Vessels List",
+   "regime": "DPRK",
+   "reference": "1718 list no. 58",
+   "name": "YU SON",
+   "other_names": [],
+   "imo": "8691702",
+   "mmsi": [],
+   "call_sign": [],
+   "flag": [],
+   "vessel_type": "",
+   "designated_on": "2018-03-30",
+   "measures": [
+    "Asset freeze of designated vessel (paragraph 12(d) of resolution 2321 (2016)) - designated 2018-03-30",
+    "Port entry ban (paragraph 6 of resolution 2371 (2017) and paragraph 6 of resolution 2375 (2017)) - designated 2018-03-30"
+   ],
+   "other_information": "DPRK tanker M/V YU SON is believed to have been involved in ship-to-ship transfer operations for oil.",
+   "linked_entities": [
+    "KPe.068 MYOHYANG SHIPPING CO"
+   ],
+   "listing_expires": "",
+   "source_url": "https://main.un.org/securitycouncil/sites/default/files/1718_designated_vessels_list_final.pdf",
+   "list_row": 58
+  },
+  {
+   "dataid": "V1718-9030591",
+   "source": "1718 Designated Vessels List",
+   "regime": "DPRK",
+   "reference": "1718 list no. 59",
+   "name": "YUK TUNG",
+   "other_names": [],
+   "imo": "9030591",
+   "mmsi": [],
+   "call_sign": [],
+   "flag": [],
+   "vessel_type": "",
+   "designated_on": "2018-03-30",
+   "measures": [
+    "De-flagging (paragraph 12(a) of resolution 2321 (2016)) - designated 2018-03-30",
+    "Port entry ban (paragraph 6 of resolution 2371 (2017) and paragraph 6 of resolution 2375 (2017)) - designated 2018-03-30"
+   ],
+   "other_information": "M/V YUK TUNG engaged in a ship- to-ship transfer, likely for oil, with M/V RYE SONG GANG in January 2018.",
+   "linked_entities": [
+    "KPe.075 YUK TUNG ENERGY PTE LTD"
+   ],
+   "listing_expires": "",
+   "source_url": "https://main.un.org/securitycouncil/sites/default/files/1718_designated_vessels_list_final.pdf",
+   "list_row": 59
+  },
+  {
+   "dataid": "6909645",
+   "source": "UN Consolidated List",
+   "regime": "Libya",
+   "reference": "LYe.006",
+   "name": "AVAX",
+   "other_names": [],
+   "imo": "9058713",
+   "mmsi": [],
+   "call_sign": [],
+   "flag": [
+    "Cameroon"
+   ],
+   "vessel_type": "",
+   "designated_on": "2026-07-22",
+   "measures": [
+    "Prohibition to load, transport or discharge",
+    "Prohibition to enter ports",
+    "Prohibition to provide bunkering and vessel services",
+    "Prohibition to engage in financial transactions with regard to petroleum"
+   ],
+   "other_information": "Listed pursuant to paragraphs 10(a), 10 (b), 10(c) and 10(d) of resolution 2146 (2014), as amended by paragraph 2 of resolutions 2441 (2018) and 2509 (2020) and extended in resolution 2819 (2026) (prohibition to load, transport or discharge; prohibition to enter ports; prohibition to provide bunkering and vessel services; prohibition to engage in financial transactions with regard to petroleum). Pursuant to paragraph 11 of resolution 2146, as modified by paragraph 2 of resolution 2509 (2020), this designation is valid from 22 July 2026 to 22 July 2027, unless terminated earlier by the Committee pursuant to paragraph 12 of resolution 2146 (2014). Flag State: Cameroon. As of 4 April 2026, the vessel was located near the anchorage area of the Benghazi Old Harbour, Libya.",
+   "linked_entities": [],
+   "listing_expires": "2027-07-22",
+   "source_url": "https://scsanctions.un.org/resources/xml/en/consolidated.xml",
+   "list_row": null
+  },
+  {
+   "dataid": "6909750",
+   "source": "UN Consolidated List",
+   "regime": "Libya",
+   "reference": "LYe.007",
+   "name": "Aegean",
+   "other_names": [],
+   "imo": "8027705",
+   "mmsi": [],
+   "call_sign": [],
+   "flag": [],
+   "vessel_type": "",
+   "designated_on": "2026-11-24",
+   "measures": [
+    "Prohibition to load, transport or discharge",
+    "Prohibition to enter ports",
+    "Prohibition to provide bunkering and vessel services",
+    "Prohibition to engage in financial transactions with regard to petroleum"
+   ],
+   "other_information": "Listed pursuant to paragraphs 10(a), 10 (b), 10(c) and 10(d) of resolution 2146 (2014), as amended by paragraph 2 of resolutions 2441 (2018) and 2509 (2020) and extended in resolution 2819 (2026) (prohibition to load, transport or discharge; prohibition to enter ports; prohibition to provide bunkering and vessel services; prohibition to engage in financial transactions with regard to petroleum). Pursuant to paragraph 11 of resolution 2146, as modified by paragraph 2 of resolution 2509 (2020), this designation is valid from 24 November 2026 to 24 November 2027, unless terminated earlier by the Committee pursuant to paragraph 12 of resolution 2146 (2014). Flag State: Unknown. As of 4 April 2026, the vessel was located near the anchorage area of the Benghazi Old Harbour, Libya.",
+   "linked_entities": [],
+   "listing_expires": "2027-11-24",
+   "source_url": "https://scsanctions.un.org/resources/xml/en/consolidated.xml",
+   "list_row": null
+  }
+ ]
+}
