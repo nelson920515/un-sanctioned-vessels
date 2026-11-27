@@ -31,6 +31,8 @@ jobs:
     timeout-minutes: 20
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: main   # the latest commit, not the one that queued this run
 
       - uses: actions/setup-python@v5
         with:
@@ -59,7 +61,8 @@ jobs:
           msg="Daily check, no change to the vessel list"
           if ! git diff --cached --quiet -- feed/vessels.tsv; then msg="Vessel list updated"; fi
           git commit -m "$msg ($(date -u +%Y-%m-%d))"
-          git push
+          git pull --rebase origin main
+          git push origin HEAD:main
 
       - name: Ask for action
         if: always()
