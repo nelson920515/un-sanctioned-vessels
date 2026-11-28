@@ -1,9 +1,9 @@
 {
  "meta": {
-  "generated": "2026-11-27T09:58:18Z",
+  "generated": "2026-11-28T08:57:02Z",
   "version": "2020-06-04-2bd300f7dc66",
   "list_date_1718": "2020-06-04",
-  "consolidated_date": "2026-11-27T00:00:06.380Z",
+  "consolidated_date": "2026-11-28T00:00:03.586Z",
   "sources": {
    "1718": "https://main.un.org/securitycouncil/sites/default/files/1718_designated_vessels_list_final.pdf",
    "consolidated": "https://scsanctions.un.org/resources/xml/en/consolidated.xml"
